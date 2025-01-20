@@ -165,7 +165,7 @@ If you want to give it a try without much trouble:
 - Open an Org file where you want the notes to go.
 - Create a root heading to hold the notes.
 - Run =M-x org-noter= inside the Org file.
-  On the first run, it will ask you for the path of the document and save it in a
+  On the first run, it will ask you for the path of the document to be annotated and save that path in a
   property. By default, it will also let you annotate an attached file [[https://orgmode.org/manual/Attachments.html][(org-attach documentation)]].
 
 This will open a new dedicated frame where you can use [[#keys][the keybindings described here]].
